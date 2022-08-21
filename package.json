@@ -1,5 +1,5 @@
 {
-  "name": "tp-uptime-2.0",
+  "name": "tp-uptime-2.0-cf",
   "version": "2.1.0",
   "scripts": {
     "start": "react-scripts start",
